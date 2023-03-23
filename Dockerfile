@@ -1,7 +1,7 @@
-FROM telethonArab/telethonAr:alpine
+FROM wEwQdGH/Telethon:alpine
 
 #clonning repo 
-RUN git clone https://github.com/telethonArab/telethonAr/tree/master.git /root/Arab
+RUN git clonehttps://github.com/wEwQdGH/Telethon/tree/master.git /root/Arab
 #working directory 
 WORKDIR /root/Arab
 
