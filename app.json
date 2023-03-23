@@ -1,9 +1,9 @@
 {
-  "name": "تليثون العرب",
+  "name": "تليثون فليكس",
   "description": "اهلا بك في تليثون العرب",
   "logo": "https://telegra.ph/file/f1b9e7e1a5b0f719bc5d9.png",
   "keywords": ["plugin","modular","productivity"],
-  "repository": "https://github.com/help-iq2/telethon",
+  "repository": "https://github.com/wEwQdGH/ttttetstt",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -42,7 +42,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لاتغيرة",
-      "value": "TelethonAr",
+      "value": "Telethon",
       "required": false
     }
   },
